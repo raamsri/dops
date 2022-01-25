@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go v1.40.53
 	github.com/cloudflare/cloudflare-go v0.13.2
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/linki/instrumented_http v0.3.0
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
