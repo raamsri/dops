@@ -1,0 +1,9 @@
+# Add 'docs' to any changes within 'docs' folder or any subfolders
+docs:
+  - docs/**/*
+
+# Add 'provider/aws' in file which starts with aws
+provider/aws: provider/aws*
+
+# Add 'provider/cloudflare' in file which starts with cloudflare
+provider/cloudflare: provider/cloudflare*
