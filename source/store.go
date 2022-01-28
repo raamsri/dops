@@ -44,6 +44,8 @@ func BuildWithConfig(source string, p ClientGenerator, cfg *Config) (Source, err
 		return NewDummySource(cfg.FQDNTemplate)
 	case "connector":
 		return NewConnectorSource(cfg.ConnectorServer)
+	case "empty":
+		return NewEmptySource(), nil
 	}
 	return nil, ErrSourceNotFound
 }

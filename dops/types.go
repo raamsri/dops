@@ -70,7 +70,7 @@ var defaultConfig = &Config{
 	Sources:                 nil,
 	FQDNTemplate:            "",
 	PublishHostIP:           false,
-	ConnectorSourceServer:   "localhost:8080",
+	ConnectorSourceServer:   "localhost:9876",
 	Provider:                "",
 	DomainFilter:            []string{},
 	ExcludeDomains:          []string{},
