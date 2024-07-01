@@ -7,7 +7,7 @@ require (
 	github.com/alecthomas/colour v0.1.0 // indirect
 	github.com/alecthomas/kingpin v2.2.5+incompatible
 	github.com/alecthomas/repr v0.0.0-20200325044227-4184120f674c // indirect
-	github.com/aws/aws-sdk-go v1.40.53
+	github.com/aws/aws-sdk-go v1.54.11
 	github.com/cloudflare/cloudflare-go v0.13.2
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.6
